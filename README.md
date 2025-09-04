@@ -53,3 +53,8 @@ Conclusion
 Task 4 provides practical exposure to building a **Recommendation System** using collaborative filtering and matrix factorization. The task covers the end-to-end process, from preparing data to training a model, evaluating its performance, and generating recommendations. By completing this task, one gains an understanding of how recommendation engines work, their strengths and limitations, and their significance in real-world applications.
 
 Recommendation systems have become a cornerstone of the digital world, powering platforms like Amazon, Netflix, YouTube, and Spotify. This task serves as a strong foundation for exploring more advanced approaches such as deep learning-based recommendation models and hybrid systems, which combine collaborative and content-based methods for improved results.
+
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/f688b4f5-0709-4ccf-bd27-b9d54af11d0e)
